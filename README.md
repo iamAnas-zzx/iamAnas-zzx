@@ -25,7 +25,7 @@
 </p>
 <hr>
 <h3 align="left">Follow me:</h3>
-<a href="https://www.linkedin.com/in/ahmad-anas-103a40236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh1206" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmad-anas-103a40236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-anas" height="30" width="40" /></a>
 <hr>
 
 ### 🧰 Languages and Tools
