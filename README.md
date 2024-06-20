@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Express and MangoDB
 - 💬 Ask me about Backend 
 - 📫 How to reach me: anasahmad9616@gmail.com
-- 📔 Resume: <a href="https://drive.google.com/file/d/1fA_XbhlOlnmTwil6RWaFvjUItieC81-N/view?usp=drive_link">RESUME</a>
+- 📔 Resume: <a href="https://drive.google.com/file/d/1LJcvllKram-8f6t5Ko-JJ6RjtuOFozVT/view?usp=drive_link">RESUME</a>
 - ⚡ Fun fact: Love to build small interactive things
 -->
 
