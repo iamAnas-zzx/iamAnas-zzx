@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there 👋, I'm Ahmad Anas ! </h1>
 
-- 🎓 I’m pursuing my <b>B.Tech</b>  in <b>Computer Science and Engineering</b> from Madan Mohan Malaviya University of Technology, Gorakhpur
+- 🎓 I graduated with <b>B.Tech</b>  in <b>Computer Science and Engineering</b> from Madan Mohan Malaviya University of Technology, Gorakhpur
 - 🧑‍💻 I’m working on <b>Dynamic Web Apps</b>
 - 🌱 I’m currently learning <b>React</b>
 - 👯 I’m looking to collaborate on <b>Full Stack (MERN) Web Development</b> related projects
