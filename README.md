@@ -1,11 +1,11 @@
  <h1 align="center"> Hi there 👋, I'm Ahmad Anas ! </h1>
 
 - 🎓 I graduated with <b>B.Tech</b>  in <b>Computer Science and Engineering</b> from Madan Mohan Malaviya University of Technology, Gorakhpur
-- 🧑‍💻 I’m working on <b>Dynamic Web Apps</b>
-- 🌱 I’m currently learning <b>React</b>
+- 🧑‍💻 I’m working on <b>Alpha Screener Project (Full stack)</b>
+- 🌱 I’m currently learning <b>Next.js</b>
 - 👯 I’m looking to collaborate on <b>Full Stack (MERN) Web Development</b> related projects
-- 🤔 I’m looking for help with Express and MangoDB
-- 💬 Ask me about Backend 
+- 🤔 I’m looking for help with Multithreading in Backend and WebSockets
+- 💬 Ask me about Full Stack  
 - 📫 How to reach me: anasahmad9616@gmail.com
 - 📔 Resume: <a href="https://drive.google.com/file/d/1LJcvllKram-8f6t5Ko-JJ6RjtuOFozVT/view?usp=drive_link">RESUME</a>
 - ⚡ Fun fact: Love to build small interactive things
